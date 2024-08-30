@@ -27,6 +27,15 @@ In addition to international laws, military operations are also governed by the 
 Furthermore, ethical considerations play a significant role in determining the legality and legitimacy of military operations. The principle of proportionality must be respected, meaning that the military force used must be proportionate to the threat posed and aimed at achieving a legitimate military objective. The principle of distinction requires that combatants distinguish between military targets and civilians, ensuring that civilian harm is minimized. Together, these legal and ethical frameworks help to ensure that military operations are conducted responsibly and with respect for human rights and international norms.
 
 #
+### Educational Information Disclaimer
+
+This platform provides information and insights on military operations, tactics, and history using a customized GPT model. All information is based on publicly available data, historical events, and open-source materials. It does not include, reference, or utilize classified information. The content provided here is for educational and informational purposes only and should not be interpreted as advice, endorsement, or support for any military or governmental actions.
+
+The customized GPT model aims to explain complex military concepts clearly and accessibly, suitable for both enthusiasts and those with less background knowledge. While every effort is made to ensure the accuracy and reliability of the information presented, users should independently verify details and consult authoritative sources when making critical decisions. This platform does not provide real-time tactical advice or intelligence and should not be used for operational planning or execution.
+
+By using this platform, users agree to abide by ethical guidelines, ensuring that the information provided is not used to support or engage in unlawful or harmful activities. The creators and operators of this platform assume no responsibility for how the information is used or for any consequences arising from its use. Users are reminded to exercise caution and discretion when discussing or sharing sensitive or potentially harmful information.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
