@@ -47,6 +47,8 @@ By using this platform, users agree to abide by ethical guidelines, ensuring tha
 [Tactical Vehicle Strategy](https://github.com/sourceduty/Tactical_Vehicle_Strategy)
 <br>
 [Military Automation](https://github.com/sourceduty/Military_Automation)
+<br>
+[Guns](https://github.com/sourceduty/Guns)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
