@@ -51,6 +51,8 @@ By using this platform, users agree to abide by ethical guidelines, ensuring tha
 [Guns](https://github.com/sourceduty/Guns)
 <br>
 [Emergency & Survival Gear](https://github.com/sourceduty/Emergency_Survival_Gear)
+<br>
+[Private Military](https://github.com/sourceduty/Private_Military)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
